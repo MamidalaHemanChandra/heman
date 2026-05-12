@@ -23,3 +23,4 @@ Vijaya
 * Carrot
 * Beetroot
 * Potato Currey
+* Panner
