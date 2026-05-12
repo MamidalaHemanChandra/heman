@@ -15,3 +15,6 @@ Vijaya
 # Onion Dosa
 * Oil
 * Dosa Batter , Onion & Potato
+
+# Special Dosa
+* Oil
