@@ -25,3 +25,4 @@ Vijaya
 * Potato Currey
 * Panner
 * Special Masala
+* Karam
