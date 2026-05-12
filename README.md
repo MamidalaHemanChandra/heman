@@ -14,4 +14,4 @@ Vijaya
 
 # Onion Dosa
 * Oil
-* Dosa Batter & Onion
+* Dosa Batter , Onion & Potato
