@@ -21,3 +21,4 @@ Vijaya
 * Dosa Batter
 * Onion
 * Carrot
+* Beetroot
