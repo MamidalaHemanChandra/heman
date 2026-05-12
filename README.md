@@ -22,3 +22,4 @@ Vijaya
 * Onion
 * Carrot
 * Beetroot
+* Potato Currey
