@@ -24,3 +24,4 @@ Vijaya
 * Beetroot
 * Potato Currey
 * Panner
+* Special Masala
