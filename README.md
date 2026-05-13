@@ -19,6 +19,4 @@ Vijaya
 # Mashroom Dosa
 * Oil
 * Dosa Batter
-* Mashroom
-* Ghee
-* Onion
+>>>>>>> parent of 1c96438 (Mashroom added)
