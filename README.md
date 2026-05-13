@@ -20,4 +20,4 @@ Vijaya
 ## DilyDosa
 * Dily
 =======
->>>>>>> 7e99210 (Dosa Batter, Onion & Potato added)
+Dosa Batter, Onion & Potato
