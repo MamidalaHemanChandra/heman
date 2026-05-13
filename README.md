@@ -19,4 +19,4 @@ Vijaya
 # Mashroom Dosa
 * Oil
 * Dosa Batter
->>>>>>> parent of 1c96438 (Mashroom added)
+* Mashroom
