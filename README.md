@@ -19,5 +19,4 @@ Vijaya
 
 ## DilyDosa
 * Dily
-=======
-Dosa Batter, Onion & Potato
+* Dosa Batter, Onion & Potato
