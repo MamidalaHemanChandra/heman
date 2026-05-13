@@ -19,6 +19,3 @@ Vijaya
 # Mashroom Dosa
 * Oil
 * Dosa Batter
-* Mashroom
-* Ghee
-* Onion
